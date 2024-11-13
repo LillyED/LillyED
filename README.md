@@ -28,9 +28,9 @@
 
 ### 📫 Connect with Me:
 
-  [Linkedin] (https://www.linkedin.com/in/lilly-d-81771726a/)
+  [Linkedin](https://www.linkedin.com/in/lilly-d-81771726a/)
   
-  Hire me on [Upwork] (https://www.upwork.com/freelancers/~01241222145e89f502?mp_source=share)
+  Hire me on [Upwork](https://www.upwork.com/freelancers/~01241222145e89f502?mp_source=share)
 
 _I’m excited to connect with fellow data enthusiasts and continue my journey in the data analysis field! Feel free to reach out if you’d like to collaborate or share insights!_
 
